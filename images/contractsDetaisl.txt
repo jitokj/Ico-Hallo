@@ -1,0 +1,2 @@
+Token Contract address - rinkeby: 0x7ea764Ec6840f92aE9fd7b2BBedca0b036cFC211
+ICO contract - rinkeby - 0xaABc13a52d26851C49c419ead2f5C4598C8cc9a8
